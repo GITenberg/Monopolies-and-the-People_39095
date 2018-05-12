@@ -1,0 +1,32 @@
+_repo: Monopolies-and-the-People_39095
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cloud, D. C.
+    gutenberg_agent_id: '39841'
+    url: http://www.gutenberg.org/2009/agents/39841
+description: 'Volume 1 [462pp] D.C. Cloud, "Monopolies and the People" (1873); Volume
+  2 [568] Henry Demarest Lloyd, "Wealth Against Commonwealth" (1894); Volume 3 [501]
+  Arthur Twining Hadley, "Economics: An Account of the Relations Between Private Property
+  and Public Welfare" (1896); Volume 4 [322] John P. Davis, "Corporations", vol --
+  1 (1905); Volume 5 [319] John P. Davis, "Corporations", vol -- 2 (1905); Volume
+  6 [238] Louis Brandeis, "Other People''s Money and What the Bankers Do With It"
+  (1914).'
+gutenberg_issued: '2012-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39095'
+  lccn: 08027947
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monopolies -- United States'
+- !lcsh 'Railroads and state -- United States'
+- !lcc 'HD'
+title: Monopolies and the People
+url: http://www.gutenberg.org/ebooks/39095
